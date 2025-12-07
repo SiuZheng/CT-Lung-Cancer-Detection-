@@ -64,7 +64,7 @@ The project requires Python and the following libraries:
 ## 📈 Results
 The models are evaluated based on Validation Accuracy and Loss.
 - **EfficientNetV2 Baseline**: showed strong convergence, achieving high validation accuracy (reaching ~97%+ in experiments).
-- **HCTLFN**: demonstrates the capability of integrating edge and grayscale features, achieving ~91%+ accuracy with a more complex architecture.
+- **HCTLFN**: demonstrates the capability of integrating edge and grayscale features, achieving ~91%+ accuracy with a more complex architecture and generalize more well compared to the original basemodel.
 
 *(Note: Exact results may vary based on random seed and split)*
 
