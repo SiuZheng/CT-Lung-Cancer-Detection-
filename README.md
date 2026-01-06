@@ -18,7 +18,7 @@ The project utilizes the **The IQ-OTHNCCD lung cancer dataset** available on Kag
 
 ## 🛠 Methodology
 
-### 1. Feature Engineering: AGOC (Adaptive Gradient Oriented Color)
+### 1. Feature Engineering: AGOC (Adaptive Gamma Optimization Correction)
 A custom preprocessing layer designed to enrich the input features.
 - **Input**: Standard 3-channel RGB images.
 - **Output**: 5-channel tensors.
