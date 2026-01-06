@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project implements a Deep Learning approach for the detection of lung cancer from CT scan slices. It explores advanced feature engineering techniques and hybrid model architectures to classify CT scan images into three categories: **Benign**, **Malignant**, and **Normal**.
 
-The core of the project involves a clear comparison between a standard **EfficientNetV2** baseline and a custom hybrid model termed **HCTLFN** (Hybrid Convolutional-Transformer-Like Feature Network), which utilizes a specialized preprocessing module called **AGOC** (Adaptive Gradient Oriented Color).
+The core of the project involves a clear comparison between a standard **EfficientNetV2** baseline and a custom hybrid model termed **HCTLFN** (Hybrid Convolutional-Transformer-Like Feature Network), which utilizes a specialized preprocessing module called **AGOC** (Adaptive Gamma Optimization Correction).
 
 ## 📊 Dataset
 The project utilizes the **The IQ-OTHNCCD lung cancer dataset** available on Kaggle.
